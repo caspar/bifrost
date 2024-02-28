@@ -1,40 +1,20 @@
 {
   "redirects": [
     {
-      "source": "/github",
-      "destination": "https://github.com/TimoStaudinger"
+      "source": "/meet",
+      "destination": "https://calendly.com/casparlant/meet"
     },
     {
       "source": "/twitter",
-      "destination": "https://twitter.com/TimoStaudinger"
-    },
-    {
-      "source": "/dotfiles",
-      "destination": "https://github.com/TimoSta/dotfiles"
-    },
-    {
-      "source": "/files",
-      "destination": "https://drive.google.com/drive/folders/19yez18C3uPtIB8BZOZM9Ah9xAdh8Chqu"
-    },
-    {
-      "source": "/uses",
-      "destination": "https://timostaudinger.com/uses"
-    },
-    {
-      "source": "/cal15",
-      "destination": "https://cal.com/timostaudinger/15min"
-    },
-    {
-      "source": "/cal30",
-      "destination": "https://cal.com/timostaudinger/30min"
-    },
-    {
-      "source": "/cal60",
-      "destination": "https://cal.com/timostaudinger/60min"
+      "destination": "https://twitter.com/casparlant"
     },
     {
       "source": "/(.*)",
-      "destination": "https://timostaudinger.com"
-    }
+      "destination": "https://calendly.com/casparlant/meet"
+    },
+    {
+      "source": "/dataviz-demo",
+      "destination": "https://drive.google.com/file/d/1Np5I3Bje9S--eH_9rGZQtl6cse9_aTGK/view?usp=sharing"
+    }, 
   ]
 }
